@@ -1,4 +1,9 @@
 #!/usr/bin/python3
+"""
+This module defines the Rectangle Object.
+"""
+
+
 class Rectangle:
-    """This is a class that defines a Rectangle."""
+    """Rectangle class defined."""
     pass
